@@ -1,0 +1,24 @@
+{
+  "name": "my-social-net",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hcuadro2326/my-social-net.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  },
+  "bugs": {
+    "url": "https://github.com/Hcuadro2326/my-social-net/issues"
+  },
+  "homepage": "https://github.com/Hcuadro2326/my-social-net#readme"
+}
